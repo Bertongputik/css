@@ -9,3 +9,6 @@ hr {
     border-color: gray;
 }
 
+h3 :hover{
+    font-size: 20px;
+}
